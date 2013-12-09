@@ -11,16 +11,16 @@
 
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/nathanhoad/alfred-bot.git"
+    "url" : "https://github.com/jamescway/alfred-bot.git"
   },
-  
+
   "engines": {
     "node": "0.6.10",
     "npm":  "1.1.9"
   },
 
   "dependencies": {
-    "hubot": "2.2.0",
+    "hubot": "2.4.5",
     "hubot-scripts": ">=2.0.8",
     "optparse": "1.0.3",
     "nodepie": "0.4.x"

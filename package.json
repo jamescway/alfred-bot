@@ -20,7 +20,7 @@
   },
 
   "dependencies": {
-    "hubot": "2.4.5",
+    "hubot": "2.4.1",
     "hubot-scripts": ">=2.0.8",
     "optparse": "1.0.3",
     "nodepie": "0.4.x"

@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Cosmic_ac 
+web: bin/hubot -a campfire -n the_genius
